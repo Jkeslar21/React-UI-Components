@@ -62,6 +62,7 @@ table {
 }
 .CardContainer{
     max-width: 600px;
+    cursor: pointer;
 }
 .CardContent{
     margin-left: 50px;
@@ -72,4 +73,7 @@ table {
 }
 .CardContent h2{
     font-weight: bold;
+}
+.CardContent a{
+    color: #98AFC7;
 }
