@@ -63,6 +63,17 @@ table {
     font-weight: bold;
     border: 1px solid grey;
 }
+.Clear{
+    background-color: white;
+    color: black;
+    height: 96px;
+    width: 335px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    border: 1px solid grey;
+}
 .Small{
         background-color: white;
         color: black;

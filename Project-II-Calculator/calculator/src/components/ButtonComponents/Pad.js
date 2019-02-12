@@ -5,8 +5,8 @@ import NumberButton from './NumberButton'
 function KeyPad() {
     return (
       <div className="KeyPad">
-        <NumberButton style='Large' btn='clear' />
-        <NumberButton  style='Operator' btn= '÷' />
+        <NumberButton style='Clear' btn='clear' />
+        <NumberButton style='Operator' btn= '÷' />
         <NumberButton style='Small' btn='7' />
         <NumberButton style='Small' btn='8' />
         <NumberButton style='Small' btn='9' />
